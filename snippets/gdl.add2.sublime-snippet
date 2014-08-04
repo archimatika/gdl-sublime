@@ -1,0 +1,8 @@
+<!-- ADD2 -->
+<snippet>
+    <content><![CDATA[add2(${1:x}, ${2:y})]]></content>
+    <tabTrigger>add2</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ADD2 x, y</description>
+</snippet>
+

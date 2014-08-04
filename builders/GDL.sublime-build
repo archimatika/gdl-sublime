@@ -1,0 +1,4 @@
+{
+  "cmd": ["gdl.builder.bat", "C:/Program Files (x86)/GRAPHISOFT/Converter/LP_XMLConverter", "$file", "$file_path", "$file_base_name"],
+  "working_dir": "$packages"
+}

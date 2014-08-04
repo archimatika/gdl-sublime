@@ -1,0 +1,3 @@
+@echo off
+echo # %DATE% - %TIME% begin to build an object...
+%1 xml2libpart -l UTF8 %2 %3/%4.gsm

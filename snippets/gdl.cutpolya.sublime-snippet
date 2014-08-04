@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[cutpolya (${1:n}, ${2:status}, ${3:d}, ${4:x1}, ${5:y1}, ${6:mask1}, ..., ${7:xn}, ${8:yn}, ${9:maskn} [, ${10:x}, ${11:y}, ${12:z}] [${13:statement1} ${14:statement2} ... ${15:statement}])
+cutend ]]></content>
+    <tabTrigger>cutpolya</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>CUTPOLYA n, status, d, x1, y1, mask1, ..., xn, yn, maskn [, x, y, z] [statement1 statement2 ... statementn] CUTEND</description>
+</snippet>
+

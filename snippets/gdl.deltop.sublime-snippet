@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[del top]]></content>
+    <tabTrigger>del top</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>DEL TOP</description>
+</snippet>
+

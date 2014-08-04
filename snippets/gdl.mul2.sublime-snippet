@@ -1,0 +1,15 @@
+<!-- <snippet>
+    <content><![CDATA[text2(${1:x}, ${2:y}, "${3:string}"")]]></content>
+    <tabTrigger>text2</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>text2(x, y, string)</description>
+</snippet> -->
+
+<!-- 2D commands -->
+<snippet>
+    <content><![CDATA[mul2(${1:x}, ${2:y})]]></content>
+    <tabTrigger>mul2</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>MUL2 x, y</description>
+</snippet>
+

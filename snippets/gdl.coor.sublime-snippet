@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[coor (${1:wrap}, ${2:vert1}, ${3:vert2}, ${4:vert3}, ${5:vert4})]]></content>
+    <tabTrigger>coor</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>COOR wrap, vert1, vert2, vert3, vert4</description>
+</snippet>
+

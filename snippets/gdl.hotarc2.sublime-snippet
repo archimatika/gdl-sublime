@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[hotarc2 ${1:x}, ${2:y}, ${3:r}, ${4:startangle}, ${5:endangle}]]></content>
+    <tabTrigger>hotarc2</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>HOTARC2 x, y, r, startangle, endangle</description>
+</snippet>
+

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[pyramid (${1:n}, ${2:h}, ${3:mask}, ${4:x1}, ${5:y1}, ${6:s1}, ... ${7:xn}, ${8:yn}, ${9:sn})]]></content>
+    <tabTrigger>pyramid</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>PYRAMID n, h, mask, x1, y1, s1, ..., xn, yn, sn</description>
+</snippet>
+

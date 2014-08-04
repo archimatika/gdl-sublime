@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[revolve_{2} (${1:n}, ${2:alphaOffset}, ${3:alpha}, ${4:mask}, ${5:sideMat}, ${6:x1}, ${7:y1}, ${8:s1}, ${9:mat1}, ... ${10:xn}, ${11:yn}, ${12:sn}, ${13:matn})]]></content>
+    <tabTrigger>revolve_{2}</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>REVOLVE{2} n, alphaOffset, alpha, mask, sideMat, x1, y1, s1, mat1, ..., xn, yn, sn, matn</description>
+</snippet>
+

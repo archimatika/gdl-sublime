@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[sweep (${1:n}, ${2:m}, ${3:alpha}, ${4:scale}, ${5:mask}, ${6:u1}, ${7:v1}, ${8:s1}, ... ${9:un}, ${10:vn}, ${11:sn})]]></content>
+    <tabTrigger>sweep</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>SWEEP n, m, alpha, scale, mask, u1, v1, s1, ..., un, vn, sn,</description>
+</snippet>
+

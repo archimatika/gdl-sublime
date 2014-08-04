@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[drawing3{2} ${1:projection_code}, ${2:angle}, ${3:method} [, ${4:backgroundColor}, ${5:fillOrigoX}, ${6:fillOrigoY}, ${7:filldirection}]]]></content>
+    <tabTrigger>drawing3{2}</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>DRAWING3{2} projection_code, angle, method [, backgroundColor, fillOrigoX, fillOrigoY, filldirection]</description>
+</snippet>
+

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[sphere (${1:r})]]></content>
+    <tabTrigger>sphere</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>SPHERE r</description>
+</snippet>
+

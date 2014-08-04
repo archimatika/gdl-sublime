@@ -1,0 +1,8 @@
+<!-- AROT2 -->
+<snippet>
+    <content><![CDATA[mul(${1:mx}, ${2:my}, ${3:mz})]]></content>
+    <tabTrigger>mul</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>MUL mx, my, mz</description>
+</snippet>
+

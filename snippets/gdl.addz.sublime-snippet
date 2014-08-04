@@ -1,0 +1,8 @@
+<!-- AROT2 -->
+<snippet>
+    <content><![CDATA[addz(${1:dz})]]></content>
+    <tabTrigger>addz</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ADDY dz</description>
+</snippet>
+

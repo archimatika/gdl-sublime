@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[prism (${1:n}, ${2:rh}, ${3:x1}, ${4:y1}, ..., ${5:xn}, ${6:yn})]]></content>
+    <tabTrigger>prism</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>PRISM n, h, x1, y1, ..., xn, yn</description>
+</snippet>
+

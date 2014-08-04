@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[richtext2 ${1:x}, ${2:y}, "${3:textblock_name}"]]></content>
+    <tabTrigger>richtext2</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>RICHTEXT2 x, y, textblock_name</description>
+</snippet>
+

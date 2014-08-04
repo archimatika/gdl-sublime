@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[poly2_a ${1:n}, ${2:frame_fill}, ${3:fill_pen}, ${4:x1}, ${5:y1}, ${6:s1}, ... ${7:xn}, ${8:yn}, ${9:s1}]]></content>
+    <tabTrigger>poly2_a</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>POLY2_A n, frame_fill, fill_pen, x1, y1, s1, ..., xn, yn, sn</description>
+</snippet>
+

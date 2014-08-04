@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[arme (${1:l}, ${2:r1}, ${3:r2}, ${4:h}, ${5:d})]]></content>
+    <tabTrigger>arme</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>ARME l, r1, r2, h, d</description>
+</snippet>
+

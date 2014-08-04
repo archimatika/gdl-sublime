@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[xwall_ (${1:left_material}, ${2:right_material}, ${3:vertical_material}, ${4:horizontal_material}, ${5:height}, ${6:x1}, ${7:x2}, ${8:x3}, ${9:x4}, ${10:y1}, ${11:y2}, ${12:y3}, ${13:y4}, ${15:t}, ${16:radius}, ${17:log_height}, ${18:log_offset}, ${19:mask1}, ${20:mask2}, ${21:mask3}, ${22:mask4}, ${23:n}, ${24:x_start1}, ${25:y_low1}, ${26:x_end1}, ${27:y_high1}, ${28:frame_shown1}, ..., ${29:x_startn}, ${30:y_lown}, ${31:x_endn}, ${32:y_highn}, ${33:frame_shown}, ${34:m}, ${35:a1}, ${36:b1}, ${37:c1}, ${38:d1}, ... ${39:am}, ${40:bm}, ${41:cm}, ${42:dm})]]></content>
+    <tabTrigger>xwall_</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>XWALL_ left_material, right_material, vertical_material, horizontal_material, height, x1, x2, x3, x4, y1, y2, y3, y4, t, radius, log_height, log_offset, mask1, mask2, mask3, mask4, n, x_start1, y_low1, x_end1, y_high1, frame_shown1, ... x_startn, y_lown, x_endn, y_highn, frame_shownn, m, a1, b1, c1, d1, ... am, bm, cm, dm, status</description>
+</snippet>
+

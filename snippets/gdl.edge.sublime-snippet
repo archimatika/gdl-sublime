@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[edge (${1:vert1}, ${2:vert2}, ${3:pgon1}, ${4:pgon2}, ${5:status})]]></content>
+    <tabTrigger>edge</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>EDGE vert1, vert2, pgon1, pgon2, status</description>
+</snippet>
+

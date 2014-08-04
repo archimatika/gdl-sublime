@@ -1,0 +1,8 @@
+<!-- AROT2 -->
+<snippet>
+    <content><![CDATA[rot2(${1:alpha})]]></content>
+    <tabTrigger>rot2</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ROT2 alpha</description>
+</snippet>
+

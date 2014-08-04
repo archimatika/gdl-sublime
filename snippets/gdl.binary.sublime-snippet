@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[binary ${1:mode} [, ${2:section}, ${3:elementID}]]]></content>
+    <tabTrigger>binary</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>BINARY mode [, section, elementID]</description>
+</snippet>
+

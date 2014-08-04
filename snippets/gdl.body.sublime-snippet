@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[body (${1:status})]]></content>
+    <tabTrigger>body</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>BODY status</description>
+</snippet>
+

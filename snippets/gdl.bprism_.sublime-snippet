@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[bprism_ (${1:top_material}, ${2:bottom_material}, ${3:side_material}, ${4:n}, ${5:h}, ${6:radius}, ${7:x1}, ${8:y1}, ${9:s1} ..., ${10:xn}, ${11:yn}, ${12:sn})]]></content>
+    <tabTrigger>bprism_</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>BPRISM_ top_material, bottom_material, side_material, n, h, radius, x1, y1, s1, ... xn, yn, sn</description>
+</snippet>
+

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[cutform (${1:n}, ${2:method}, ${3:status}, ${4:rx}, ${5:ry}, ${6:rz}, ${7:d}, ${8:x1}, ${9:y1}, ${10:mask1} [, ${11:mat1}], ... ${12:xn}, ${13:yn}, ${14:maskn [, ${15:matn}]})]]></content>
+    <tabTrigger>cutform</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>CUTFORM n, method, status, rx, ry, rz, d, x1, y1, mask1 [, mat1], ... xn, yn, maskn [, matn]</description>
+</snippet>
+

@@ -1,0 +1,8 @@
+<!-- AROT2 -->
+<snippet>
+    <content><![CDATA[rot(${1:d}, ${2:y}, ${3:z}, ${4:alpha})]]></content>
+    <tabTrigger>rot</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ROT x, y, z, alpha</description>
+</snippet>
+

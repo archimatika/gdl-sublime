@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[mesh (${1:a}, ${2:b}, ${3:m}, ${4:n}, ${5:mask}, ${6:z11}, ${7:z12}, ... ${8:z1m}, ${9:z21}, ${10:z22}, ... ${11:z2m}, ... ${12:zn1}, ${13:zn2}, ... ${14:znm})]]></content>
+    <tabTrigger>mesh</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>MESH a, b, m, n, mask, z11, z12, ..., z1m, z21, z22, ..., z2m, ... zn1, zn2, ..., znm</description>
+</snippet>
+

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[poly2_b{5} ${1:n}, ${2:frame_fill}, ${3:fillcategory}, ${4:distortion_flags}, ${5:fill_pen}, ${6:fill_background_pen}, ${7:fillOrigoX}, ${8:fillOrigoY}, ${9:mxx}, ${10:mxy}, ${11:myx}, ${12:myy}, ${13:gradientInnerRadius}, ${14:x1}, ${15:y1}, ${16:s1}, ... ${17:xn}, ${18:yn}, ${19:sn}]]></content>
+    <tabTrigger>poly2_b{5}</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>POLY2_B{5} n, frame_fill, fillcategory, distortion_flags, fill_pen, fill_background_pen, fillOrigoX, fillOrigoY, mxx, mxy, myx, myy, gradientInnerRadius, x1, y1, s1, ..., xn, yn, sn</description>
+</snippet>
+

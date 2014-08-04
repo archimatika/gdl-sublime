@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[spline2a ${1:n}, ${2:status}, ${3:x1}, ${4:y1}, ${5:angle1}, ${6:length_previous1}, ${7:length_next1}, ... ${8:xn}, ${9:yn}, ${10:anglen}, ${11:length_previousn}, ${12:length_nextn}]]></content>
+    <tabTrigger>spline2a</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>SPLINE2A n, status, x1, y1, angle1, length_previous1, length_next1, ... xn, yn, anglen, length_previousn, length_nextn</description>
+</snippet>
+

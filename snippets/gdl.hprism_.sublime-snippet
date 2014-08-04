@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[hprism_ (${1:top_material}, ${2:bottom_material}, ${3:side_material}, ${4:hill_material}, ${5:n}, ${6:thickness}, ${7:angle}, ${8:hill_height}, ${9:status, ${10:x1}, ${11:y1}, ${12:s1} ..., ${13:xn}, ${14:yn}, ${15:sn})]]></content>
+    <tabTrigger>hprism_</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>HPRISM_ top_mat, bottom_mat, side_mat, hill_mat, n, thickness, angle, hill_height, status, x1, y1, s1, ... xn, yn, sn</description>
+</snippet>
+

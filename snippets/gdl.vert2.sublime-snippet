@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[vert{2} (${1:x}, ${2:y}, ${3:z}, ${4:hard})]]></content>
+    <tabTrigger>vert{2}</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>VERT{2} x, y, z, hard</description>
+</snippet>
+

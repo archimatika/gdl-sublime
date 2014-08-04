@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[group ("${1:name}" [${2:statement1} ... ${3:statementn}])
+endgroup]]></content>
+    <tabTrigger>group</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>GROUP "name" [statement1 ... statementn] ENDGROUP</description>
+</snippet>
+

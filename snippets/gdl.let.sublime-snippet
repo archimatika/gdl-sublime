@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[[let] ${1:varname} = ${2:value}]]></content>
+    <tabTrigger>let</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>[LET] varnam = n</description>
+</snippet>
+

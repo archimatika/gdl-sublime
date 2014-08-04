@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[picture2 ${1:expression}, ${2:a}, ${3:b}, ${4:mask}]]></content>
+    <tabTrigger>picture2</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>PICTURE2 expression, a, b, mask</description>
+</snippet>
+

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[coons (${1:n}, ${2:m}, ${3:mask}, ${4:x11}, ${5:y11}, ${7:z11}, ... ${9:x1n}, ${10:y1n}, ${11:z1n}, ${12:x21}, ${13:y21}, ${14:z21}, ... ${16:x2n}, ${17:y2n}, ${18:z2n}, ${19:x31}. ${20:y31}, ${21:z31}, ... ${22:x3m}, ${23:y3m}, ${24:z3m})]]></content>
+    <tabTrigger>coons</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>COONS n, m, mask, x11, y11, z11, ..., x1n, y1n, z1n, x21, y21, z21, ..., x2n, y2n, z2n, x31, y31, z31, ..., x3m, y3m, z3m</description>
+</snippet>
+

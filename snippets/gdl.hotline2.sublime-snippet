@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[hotline2 ${1:x1}, ${2:y1}, ${3:x2}, ${4:y2}]]></content>
+    <tabTrigger>hotline2</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>HOTLINE2 x1, y1, x2, y2</description>
+</snippet>
+

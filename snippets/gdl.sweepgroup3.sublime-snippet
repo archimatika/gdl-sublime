@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[sweepgroup{3} (${1:g_expr1}, ${2:x}, ${3:y}, ${4:z}, ${5:edgeColor}, ${6:materialId}, ${7:materialColor}, ${8:method})]]></content>
+    <tabTrigger>sweepgroup{3}</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>SWEEPGROUP{3} (g_expr, x, y, z, edgeColor, materialId, materialColor, method)</description>
+</snippet>
+

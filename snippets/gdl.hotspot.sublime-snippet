@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[hotspot (${1:x}, ${2:y}, ${3:z} [, ${4:unID} [, ${5:paramReference}, ${6:flags}] [, ${7:displayParam}] ])]]></content>
+    <tabTrigger>hotspot</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>HOTSPOT x, y, z [, unID [, paramReference, flags] [, displayParam]]</description>
+</snippet>
+

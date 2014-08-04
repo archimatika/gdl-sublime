@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[creategroupwithmaterial (${1:g_expr1}, ${2:repl_directive}, ${3:pen}, ${4:material})]]></content>
+    <tabTrigger>creategroupwithmaterial</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>CREATEGROUPWITHMATERIAL (g_expr, repl_directive, pen, material)</description>
+</snippet>
+

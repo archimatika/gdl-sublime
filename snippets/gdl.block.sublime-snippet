@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[block (${1:a}, ${2:b}, ${3:c})]]></content>
+    <tabTrigger>block</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>BLOCK a, b, c</description>
+</snippet>
+

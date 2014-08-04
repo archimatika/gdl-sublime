@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[pgon{2} (${1:n}, ${2:vect}, ${3:status}, ${4:wrap}, ${5:edge_or_wrap1}, ... ${6:edge_or_wrapn})]]></content>
+    <tabTrigger>pgon{2}</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>PGON{2} n, vect, status, wrap, edge_or_wrap1, ..., edge_or_wrapn</description>
+</snippet>
+

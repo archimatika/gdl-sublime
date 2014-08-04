@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[armc (${1:r1}, ${2:r2}, ${3:l}, ${4:h}, ${5:d}, ${6:alpha})]]></content>
+    <tabTrigger>armc</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ARMC r1, r2, l, h, d, alpha</description>
+</snippet>
+

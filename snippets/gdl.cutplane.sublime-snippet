@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[cutplane (${1:x} [, ${2:y}[, ${3:z}[, ${4:side}[, ${5:status}]]]]) [${6:statement1} ... ${7:statementn}]
+cutend ]]></content>
+    <tabTrigger>cutplane</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>CUTPLANE [x [, y [, z [, side [, status]]]]] [statement1 ... statementn] CUTEND</description>
+</snippet>
+

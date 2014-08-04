@@ -1,0 +1,8 @@
+<!-- AROT2 -->
+<snippet>
+    <content><![CDATA[roty(${1:alphay})]]></content>
+    <tabTrigger>roty</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>ROTY alphay</description>
+</snippet>
+

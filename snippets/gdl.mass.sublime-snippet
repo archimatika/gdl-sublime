@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[mass (${1:top_material}, ${2:bottom_material}, ${3:side_material}, ${4:n}, ${5:m}, ${7:mask}, ${9:h}, ${10:x1}, ${11:y1}, ${12:z1}, ${13:s1}, ... ${16:xn}, ${17:yn}, ${18:zn}, ${19:sn}, ${20:xn+1}, ${21:yn+1}, ${22:zn+1}, ${23:sn+1}, ... ${24:xn+m}, ${25:yn+m}, ${26:zn+m}, ${27:sn+m})]]></content>
+    <tabTrigger>mass</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>MASS top_material, bottom_material, side_material, n, m, mask, h, x1, y1, z1, s1, ... xn, yn, zn, sn, xn+1, yn+1, zn+1, sn+1, ... xn+m, yn+m, zn+m, sn+m</description>
+</snippet>
+

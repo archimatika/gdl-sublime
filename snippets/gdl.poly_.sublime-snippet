@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[poly_ (${1:n}, ${2:x1}, ${3:y1}, ${4:s1}, ... ${5:xn}, ${6:yn}, ${7:sn})]]></content>
+    <tabTrigger>poly_</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>POLY_ n, x1, y1, s1, ..., xn, yn, sn</description>
+</snippet>
+

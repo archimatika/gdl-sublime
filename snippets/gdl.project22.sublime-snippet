@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[project2{2} ${1:projection_code}, ${2:angle}, ${3:method} [, ${4:backgroundColor}, ${5:fillOrigoX}, ${6:fillOrigoY}, ${7:filldirection}]]]></content>
+    <tabTrigger>project2{2}</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>PROJECT2{2} projection_code, angle, method [, backgroundColor, fillOrigoX, fillOrigoY, filldirection]</description>
+</snippet>
+

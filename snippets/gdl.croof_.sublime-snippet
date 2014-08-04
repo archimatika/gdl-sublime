@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[croof_ (${1:top_material}, ${2:bottom_material}, ${3:side_material}, ${4:n}, ${5:xb}, ${6:yb}, ${7:xe}, ${8:ye}, ${9:height}, ${10:angle}, ${11:thickness}, ${12:x1}, ${13:y1}, ${14:alpha}, ${15:s1}, ... ${16:xn}, ${17:yn}, ${18:alphan}, ${19:sn})]]></content>
+    <tabTrigger>croof_</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>CROOF_ top_material, bottom_material, side_material, n, xb, yb, xe, ye, height, angle, thickness, x1, y1, alpha1, s1, ... xn, yn, alphan, sn</description>
+</snippet>
+

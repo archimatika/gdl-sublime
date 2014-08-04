@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[drawing3 ${1:projection_code}, ${2:angle}, ${3:method}]]></content>
+    <tabTrigger>drawing3</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>DRAWING3 projection_code, angle, method</description>
+</snippet>
+

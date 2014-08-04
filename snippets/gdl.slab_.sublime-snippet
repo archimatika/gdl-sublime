@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[slab_ (${1:n}, ${2:h}, ${3:x1}, ${4:y1}, ${5:z1}, ${6:s1}, ..., ${7:xn}, ${8:yn}, ${9:zn}, ${10:sn})]]></content>
+    <tabTrigger>slab_</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>SLAB_ n, h, x1, y1, z1, s1, ..., xn, yn, zn, sn</description>
+</snippet>
+

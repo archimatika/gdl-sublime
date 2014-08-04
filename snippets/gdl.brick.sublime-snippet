@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[brick (${1:a}, ${2:b}, ${3:c})]]></content>
+    <tabTrigger>brick</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>BRICK a, b, c</description>
+</snippet>
+

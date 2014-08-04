@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[subgroup (${1:g_expr1}, ${2:g_expr2})]]></content>
+    <tabTrigger>subgroup</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>SUBGROUP (g_expr1, g_expr2)</description>
+</snippet>
+

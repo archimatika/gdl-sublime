@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[xform(${1:a11}, ${2:a12}, ${3:a13}, ${4:a14}, ${5:a21}, ${6:a22}, ${7:a23}, ${8:a24}, ${9:a31}, ${10:a32}, ${11:a33}, ${12:a34})]]></content>
+    <tabTrigger>xform</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>XFORM a11, a12, a13, a14, a21, a22, a23, a24, a31, a32, a33, a34</description>
+</snippet>
+

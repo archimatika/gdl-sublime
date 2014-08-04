@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[elbow (${1:r1}, ${2:alpha}, ${3:r2})]]></content>
+    <tabTrigger>elbow</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>ELBOW r1, alpha, r2</description>
+</snippet>
+

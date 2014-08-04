@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[text (${1:d}, ${2:0}, ${3:expression})]]></content>
+    <tabTrigger>text</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>TEXT d, 0, expression</description>
+</snippet>
+

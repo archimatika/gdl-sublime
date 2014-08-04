@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[arc (${1:r}, ${2:alpha}, ${3:beta})]]></content>
+    <tabTrigger>arc</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>ARC r, alpha, beta</description>
+</snippet>
+

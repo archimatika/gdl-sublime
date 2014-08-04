@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[cwall_ (${1:left_material}, ${2:right_material}, ${3:side_material}, ${4:height}, ${5:x1}, ${6:x2}, ${7:x3}, ${8:x4}, ${9:t}, ${10:mask1}, ${11:mask2}, ${12:mask3}, ${13:mask4}, ${14:n}, ${15:x_start1}, ${16:y_low1}, ${17:x_end1}, ${18:y_hight1}, ${19:frame_shown1}, ..., ${20:x_startn}, ${21:y_lown}, ${22:x_endn}, ${24:y_highn}, ${25:frame_shown}, ${26:m}, ${27:a1}, ${28:b1}, ${29:c1}, ${30:d1}, ... ${31:am}, ${32:bm}, ${33:cm}, ${34:dm})]]></content>
+    <tabTrigger>cwall_</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>CWALL_ left_material, right_material, side_material, height, x1, x2, x3, x4, t, mask1, mask2, mask3, mask4, n, x_start1, y_low1, x_end1, y_high1, frame_shown1, ... x_startn, y_lown, x_endn, y_highn, frame_shownn, m, a1, b1, c1, d1, ... am, bm, cm, dm</description>
+</snippet>
+

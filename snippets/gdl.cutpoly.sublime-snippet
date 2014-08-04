@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[cutpoly (${1:n}, ${2:x1}, ${3:y1}, ... ${4:xn}, ${5:yn} [, ${6:x}, ${7:y}, ${8:z}] [${9:statement1} ${10:statement2} ... ${11:statementn}])
+cutend ]]></content>
+    <tabTrigger>cutpoly</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>CUTPOLY n, x1, y1, ..., xn, yn [, x, y, z] [statement1 statement2 ... statementn]</description>
+</snippet>
+

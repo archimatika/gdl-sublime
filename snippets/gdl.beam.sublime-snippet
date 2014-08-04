@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[beam (${1:left_material}, ${2:right_material}, ${3:vertical_material}, ${4:top_material}, ${5:bottom_material}, ${6:height}, ${7:x1}, ${8:x2}, ${9:x3}, ${10:x4}, ${11:y1}, ${12:y2}, ${13:y3}, ${14:y4}, ${15:t}, ${16:mask1}, ${17:mask2}, ${18:mask3}, ${19:mask4})]]></content>
+    <tabTrigger>beam</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>BEAM left_material, right_material, vertical_material, top_material, bottom_material, height, x1, x2, x3, x4, y1, y2, y3, y4, t, mask1, mask2, mask3, mask4</description>
+</snippet>
+

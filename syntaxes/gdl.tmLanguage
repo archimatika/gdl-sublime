@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>uuid</key>
+        <string>d5ecf51c-86a7-4c64-a875-61fcfe8ec73c</string>
+        <key>patterns</key>
+        <array>     
+
+            <!-- XML Inner values -->
+            <dict>
+                <key>name</key>
+                <string>entry.xml.inner.gdl</string>
+                <key>match</key>
+                <string>(?&lt;=\&gt;)(.*?)(?=&lt;\/)</string>
+            </dict>
+            <!-- XML Tags Coloring -->
+            <dict>
+                <key>name</key>
+                <string>entry.xml.tag.gdl</string>
+                <key>match</key>
+                <!-- <string>&lt;([A-Z-a-z/]*)(&gt;|/&gt;)</string> -->
+                <string>(&lt;\?|&lt;/|&lt;)[A-Z-a-z-0-9_]{1,}|(\b&gt;|&gt;\Z|\?&gt;|\/&gt;)</string>
+            </dict>
+
+
+            <!-- Numeric entries -->
+            <dict>
+                <key>name</key>
+                <string>entry.numeric.gdl</string>
+                <key>match</key>
+                <string>\b[0-9]*(?!\w)</string>
+            </dict>
+            <!-- String entries -->
+            <dict>
+                <key>name</key>
+                <string>entry.string.gdl</string>
+                <key>match</key>
+                <string>"([^"]*)"</string>
+            </dict>            
+            <!-- Global parameters and variables -->
+            <dict>
+                <key>name</key>
+                <string>entry.global.gdl</string>
+                <key>match</key>
+                <string>\b[A-Z_]*\b</string>
+            </dict>
+                <!-- Defined global variables (Archicad) -->
+                <dict>
+                    <key>name</key>
+                    <string>entry.global.def.gdl</string>
+                    <key>match</key>
+                    <string>GLOB_PROJECT_LATITUDE|GLOB_NORTH_DIR</string>
+                </dict>            
+
+
+            <!-- General commands -->
+            <dict>
+                <key>name</key>
+                <string>entry.command.gdl</string>
+                <key>match</key>
+                <string>\b(call|parameters|returned_parameters|all|values|range|lock|hideparameter|set|define|print|request|use)\b</string>
+            </dict>
+                <!-- Stylish commands -->
+                <dict>
+                    <key>name</key>
+                    <string>entry.command.stylish.gdl</string>
+                    <key>match</key>
+                    <string>\b(style|pen|fill|line_type)\b</string>
+                </dict>
+                <!-- 2D commands -->
+                <dict>
+                    <key>name</key>
+                    <string>entry.command.2d.gdl</string>
+                    <key>match</key>
+                    <string>\b(add2|mul2|rot2|line2|circle2|text2|hotspot2|poly2_b|project2)\b</string>
+                </dict>
+                <!-- 3D commands -->
+                <dict>
+                    <key>name</key>
+                    <string>entry.command.3d.gdl</string>
+                    <key>match</key>
+                    <string>\b(add|addx|addy|addz|mulx|muly|mulz|rot|rotx|roty|rotz|xform|del| top|ntr|block|brick|sphere|ellips|cone|prism|prism_|cprism_|cprism_{2}|bprism_|fprism_|hprism_|sprism_|sprism_{2}|slab|slab_|cslab_|cwall_|bwall_|xwall|xwall_{2}|beam|croof_|croof_{2}|mesh|armc|arme|elbow|hotspot|hotline|hotarc|lin_|rect|poly|poly_|plane|plane_|circle|arc|extrude|pyramid|revolve|revolve{2}|rulde|ruled{2}|sweep|tube|tubea|coons|mass|polyroof|extrudeshell|revolvedshell|revolvedshellangular|ruledshell|cutplane|cutplane{2}|cutplane{3}|cutend|cutpolya|cutshape|cutform|addgroup|addgroup{2}|subgroup|subgroup{2}|isectgroup|isectlines|sweepgroup|group|endgroup|placegroup|killgroup|sweepgroup{2}|sweepgroup{3}|creategroupwithmaterial|binary)\b</string>
+                </dict>
+                <!-- Visualization commands -->
+                <dict>
+                    <key>name</key>
+                    <string>entry.command.3d.gdl</string>
+                    <key>match</key>
+                    <string>\b(light|picture|text|richtext|vert|teve|vect|edge|pgon|pgon{2}pipg|coor|body|base|)\b</string>
+                </dict>                
+
+
+            <!-- Comments -->
+            <dict>
+                <key>name</key>
+                <string>entry.comment.gdl</string>
+                <key>match</key>
+                <string>(!|&lt;!)(.+)|]]&gt;</string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>entry.comment.gdl</string>
+                <key>match</key>
+                <string>[A-Z-0-9]{30,}</string>
+            </dict>
+
+
+            <!-- Logical operators -->
+            <dict>
+                <key>name</key>
+                <string>entry.operator.logic.gdl</string>
+                <key>match</key>
+                <string>\b(not|if|then|else|elseif|endif|and|end|for|to|step|next|while|repeat)\b</string>
+            </dict>
+                <!-- Expression operators -->
+                <dict>
+                    <key>name</key>
+                    <string>entry.operator.exp.gdl</string>
+                    <key>match</key>
+                    <string>\b(int|str|stw|sqr|abs|max|min|sgn|cos|sin|tan)\b</string>
+                </dict>
+                <!-- Expression symbols -->
+                <dict>
+                    <key>name</key>
+                    <string>entry.operator.exp.smb.gdl</string>
+                    <key>match</key>
+                    <string>=|-|\+|\*|\/|&lt;|&gt;|\.|,|:|;</string>
+                </dict>
+                <dict>
+                    <key>name</key>
+                    <string>entry.operator.exp.brc.gdl</string>
+                    <key>match</key>
+                    <string>\(|\)|\[|\]|{|}</string>
+                </dict>                
+
+
+        </array>
+        <key>name</key>
+        <string>GDL</string>
+        <key>scopeName</key>
+        <string>source.gdl</string>
+        <key>fileTypes</key>
+        <array>
+            <string>gdl</string>
+        </array>
+    </dict>
+
+
+
+
+</plist>

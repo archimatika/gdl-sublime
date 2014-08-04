@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[fragment2 ${1:fragment_index}, ${2:use_current_attributes_flag}]]></content>
+    <tabTrigger>fragment2</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>FRAGMENT2 fragment_index, use_current_attributes_flag</description>
+</snippet>
+

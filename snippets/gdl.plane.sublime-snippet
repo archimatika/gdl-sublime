@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[plane (${1:n}, ${2:x1}, ${3:y1}, ${4:z1}, ... ${5:xn}, ${6:yn}, ${7:zn})]]></content>
+    <tabTrigger>plane</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>PLANE n, x1, y1, z1, ..., xn, yn, zn</description>
+</snippet>
+

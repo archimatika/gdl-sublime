@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[extrude (${1:n}, ${2:dx}, ${3:dy}, ${4:dz}, ${5:mask}, ${6:x1}, ${7:y1}, ${8:s1}, ... ${9:xn}, ${10:yn}, ${11:sn})]]></content>
+    <tabTrigger>extrude</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>EXTRUDE n, dx, dy, dz, mask, x1, y1, s1, ... xn, yn, sn</description>
+</snippet>
+

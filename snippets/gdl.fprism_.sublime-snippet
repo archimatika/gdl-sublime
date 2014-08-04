@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[fprism_ (${1:top_material}, ${2:bottom_material}, ${3:side_material}, ${4:hill_material}, ${5:n}, ${6:thickness}, ${7:angle}, ${8:hill_height}, ${9:x1}, ${10:y1}, ${11:s1} ..., ${12:xn}, ${12:yn}, ${13:sn})]]></content>
+    <tabTrigger>fprism_</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>FPRISM_ top_material, bottom_material, side_material, hill_material, n, thickness, angle, hill_height, x1, y1, s1, ... xn, yn, sn</description>
+</snippet>
+

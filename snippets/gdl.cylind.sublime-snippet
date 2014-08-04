@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[cylind (${1:h}, ${2:r})]]></content>
+    <tabTrigger>cylind</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>CYLIND h, r</description>
+</snippet>
+

@@ -1,0 +1,8 @@
+<!-- AROT2 -->
+<snippet>
+    <content><![CDATA[muly(${1:my})]]></content>
+    <tabTrigger>muly</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>MULY my</description>
+</snippet>
+

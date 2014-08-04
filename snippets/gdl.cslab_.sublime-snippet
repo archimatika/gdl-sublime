@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[cslab_ (${1:top_material}, ${2:bottom_material}, ${3:side_material}, ${4:n}, ${5:h}, ${6:x1}, ${7:y1}, ${8:z1}, ${9:s1}, ..., ${10:xn}, ${11:yn}, ${12:zn}, ${13:sn})]]></content>
+    <tabTrigger>cslab_</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>CSLAB_ top_material, bottom_material, side_material, n, h, x1, y1, z1, s1, ..., xn, yn, zn, sn</description>
+</snippet>
+

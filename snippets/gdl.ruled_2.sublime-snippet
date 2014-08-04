@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[ruled_{2} (${1:n}, ${2:mask}, ${3:u1}, ${4:v1}, ${5:s1}, ... ${6:un}, ${7:vn}, ${8:sn}, ${9:x1}, ${10:y1}, ${11:z1}, ... ${12:xn}, ${13:yn}, ${14:zn})]]></content>
+    <tabTrigger>ruled_{2}</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>RULED{2} n, mask, u1, v1, s1, ..., un, vn, sn, x1, y1, z1, ..., xn, yn, zn</description>
+</snippet>
+

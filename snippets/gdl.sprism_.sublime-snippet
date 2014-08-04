@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[sprism_ (${1:top_material}, ${2:bottom_material}, ${3:side_material}, ${4:n}, ${5:xb}, ${6:yb}, ${7:xe}, ${8:h, ${9:angle}, ${10:x1}, ${11:y1}, ${12:s1} ..., ${13:xn}, ${14:yn}, ${15:sn})]]></content>
+    <tabTrigger>sprism_</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>SPRISM_ top_material, bottom_material, side_material, n, xb, yb, xe, ye, h, angle, x1, y1, s1, ... xn, yn, sn</description>
+</snippet>
+

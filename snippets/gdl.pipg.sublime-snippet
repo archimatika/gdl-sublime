@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[pipg (${1:expression}, ${2:a}, ${3:b}, ${4:mask}, ${5:n}, ${6:vect}, ${7:status}, ${8:edge1}, ${9:edge2}, ... ${10:edgen})]]></content>
+    <tabTrigger>pipg</tabTlgger>
+    <scope>source.gdl</scope>
+    <description>PIPG expression, a, b, mask, n, vect, status, edge1, edge2, ..., edgen</description>
+</snippet>
+

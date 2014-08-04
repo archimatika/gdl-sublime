@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[ntr ()]]></content>
+    <tabTrigger>ntr</tabTrigger>
+    <scope>source.gdl</scope>
+    <description>NTR ()</description>
+</snippet>
+
